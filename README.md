@@ -5,7 +5,7 @@ The E-commerce website is a full-stack application built using React with Vite a
 
   <img  src="public/assets/Screenshots/0.png" alt="Home">
 
-## [🌟Live Website🌟](https://e-commerce-mansy.vercel.app)
+## [🌟Live Website🌟](https://react-ecommerce-two-hazel.vercel.app)
 
 ## [🌟Design on Figma 🌟](https://www.figma.com/file/yn2DFQJla0UiSMvomFsqwT/E-Commerce-Website-%D9%90Almdrasa?type=design&mode=design&t=fqPRRAQH5lDJGmoY-0)
 
@@ -48,7 +48,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MMansy19/E-Commerce-Website.git
+   git clone https://github.com/MustafaRaheel26/react-ecommerce-two.git
    ```
 
 2. Navigate to the project directory:
@@ -114,7 +114,7 @@ To set up and run the project locally, follow these steps:
 
 ## Contact
 
-- [Author](https://github.com/MMansy19)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
+- [Author](https://github.com/MustafaRaheel26)
+- [Website](https://github.com/MustafaRaheel26)
+- [Email](mailto:mustafaraheel26@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mustafa-raheel-7b45b8286/)
